@@ -1,0 +1,93 @@
+.navbar-brand img {
+    width: 100px;
+    border-radius: 80%;
+}
+
+.carousel img {
+    height: 500px;
+}
+
+/* about */
+
+h6 {
+    border: 2px solid red;
+    margin: 100px 0px;
+}
+
+/* details */
+
+.fa {
+    margin: 80px 0px;
+}
+
+/* chatbox */
+
+.mb {
+    border: 3px solid blue;
+    border-radius: 15px;
+    width: 600px;
+    margin: 30px 400px;
+    padding: 20px 0px;
+}
+
+.mo {
+    border: 3px solid green;
+    border-radius: 15px;
+    width: 600px;
+    margin: 30px 400px;
+    padding: 20px;
+}
+
+.ta {
+    margin: 5px 630px;
+    width: 150px;
+}
+
+
+button {
+    border-radius: 20px;
+}
+
+button:hover {
+    background-color: blue;
+}
+
+h1 {
+    border: 2px solid brown;
+    background-color: bisque;
+}
+
+h2 {
+    border: 3px solid blue;
+    background-color: azure;
+}
+
+.a {
+    margin: 0px 250px;
+}
+
+
+/* contact */
+
+.contact {
+    width: 900px;
+    padding: 20px;
+    border-radius: 10px;
+    font-family: Arial;
+    margin: auto;
+}
+
+.contact h2 {
+    color: #333;
+    margin-bottom: 15px;
+}
+
+.contact p {
+    color: #555;
+    margin: 10px 0;
+}
+
+
+.tr{
+    margin: 0px 450px;
+}
